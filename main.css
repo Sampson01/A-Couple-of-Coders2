@@ -1,0 +1,1074 @@
+/*******************************
+GENERAL
+*******************************/
+
+* {
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+
+body {
+	font-family: 'Arvo', sans-serif;
+}
+
+a {
+	color: #ffd700;
+	text-decoration: none;
+}
+
+p {
+  color: #fff;
+}
+
+h1, h2, h3 {
+  color: #fff;
+}
+
+  nav ul li {
+	display: inline-block;
+	font-size: 37px;
+	font-weight: 800;
+  margin-left: 55px;
+	margin-right: 5px;
+}
+
+nav .selected, nav :hover {
+	color: #2e74b7;
+}
+
+
+/*******************************
+PAGE:HOME
+*******************************/
+
+.indexbody {
+  background-color: #000;
+}
+
+header {
+  display: flex;
+  height: 10em;
+  position: relative;
+  color: #000;
+	
+}
+
+.foot {
+	color: #2e74b7;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 1;
+  left: 0;
+}
+
+.Kings {
+	font-size: 90px;
+  color: #2e74b7;
+  text-align: center;
+  margin: auto;
+	margin-top: -20px;
+}
+
+.lion {
+  margin: auto;
+  display: block;
+}
+
+.thetrue {
+	font-size: 60px;
+  color: #ffd700;
+  text-align: center;
+  margin: auto;
+	padding-top: 50px;
+}
+
+
+/*******************************
+PAGE: ABOUT
+*******************************/
+
+.aboutbody {
+  background-color: #000;
+}
+
+.origin,
+.creators {
+	margin-left: 15%;
+  color: #2e74b7;
+  font-size: 35px;
+}
+
+.origin {
+	margin-top: -35px;
+}
+
+.creators {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.definition {
+	font-size: 33px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+/*********IMAGES**********/
+
+.bigbrother {
+	padding-left: 100px;
+}
+
+.me { 
+	padding-left: 100px;
+}
+
+.ermaya {
+  padding-left: 100px;
+}
+
+/*********PARAGRAPHS**********/
+
+.alfredcreator {
+	font-size: 25px;
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+}
+
+.cinquecreator {
+	font-size: 25px;
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+}
+
+.ermayacreator {
+	font-size: 25px;
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+}
+
+.aboutfoot {
+	color: #2e74b7;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 1;
+  left: 0;
+}
+
+/*******************************
+PAGE: WOMEN
+*******************************/
+
+.manyitems {
+  color: #2e74b7;
+  font-size: 30px;
+  padding-left: 45px;
+  padding-bottom: 25px;
+}
+
+.things {
+  padding-left: 20px;
+}
+
+.script {
+  font-size: 25px;
+  padding-left: 50px;
+}
+
+.stuff {
+  font-size: 25px;
+  padding-left: 70px;
+  padding-bottom: 50px;
+}
+
+.womenbody {
+  background-color: #000;
+}
+
+
+.women1, .women2, .women3, .women4, .women5, .women5-2, .women6 {
+  color: #fff;
+	padding-left: 150px;
+}
+
+
+
+.womenfoot {
+	color: #2e74b7;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 1;
+  left: 0;
+}
+	
+
+/*******************************
+PAGE: MEN
+*******************************/
+
+.manyitems {
+  color: #2e74b7;
+  font-size: 30px;
+  padding-left: 45px;
+  padding-bottom: 25px;
+}
+
+.things {
+  padding-left: 20px;
+}
+
+.script {
+  font-size: 25px;
+  padding-left: 50px;
+}
+
+.stuff {
+  font-size: 25px;
+  padding-left: 70px;
+  padding-bottom: 50px;
+}
+
+.menbody {
+  background-color: #000;
+}
+
+
+.men1, .men2, .men3, .men4, .men5, .men5-2, .men6 {
+  color: #fff;
+	padding-left: 150px;
+}
+
+
+
+.menfoot {
+	color: #2e74b7;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 1;
+  left: 0;
+}
+
+/*******************************
+PAGE: YOUTH
+*******************************/
+
+.youthbody {
+  background-color: #000;
+}
+
+.manyitems {
+  color: #2e74b7;
+  font-size: 30px;
+  padding-left: 45px;
+  padding-bottom: 25px;
+}
+
+.things {
+  padding-left: 20px;
+}
+
+.script {
+  font-size: 25px;
+  padding-left: 50px;
+}
+
+.stuff {
+  font-size: 25px;
+  padding-left: 70px;
+  padding-bottom: 50px;
+}
+
+.womenbody {
+  background-color: #000;
+}
+
+
+.youth1, .youth2, .youth3, .youth4, .youth5, .youth5-2, .youth6, .youth7 {
+  color: #fff;
+	padding-left: 150px;
+}
+
+
+
+.youthfoot {
+	color: #2e74b7;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 1;
+  left: 0;
+}
+
+
+/*******************************
+PAGE: CONTACT US
+*******************************/
+
+.contactusbody {
+  background-color: #000;
+}
+
+.contact {
+  text-align: center;
+  color: #2e74b7;
+  margin-top: 0; 
+}
+
+.order {
+  text-align: center;
+  color: #2e74b7;
+  margin-top: 0; 
+  padding-top: 50px;
+}
+
+.mail, 
+.phone,
+.location {
+  margin-top:50px;
+  margin-left: 50px;
+  text-align: center;
+  color: #2e74b7;
+  font-size: 20px;
+  display: inline-block;
+  padding: 50px;
+}
+
+figcaption {
+  font-size: 25px;
+}
+
+/*************************
+Media Queries
+*************************/
+
+@media only screen and (min-width: 480px) {
+
+/*
+  nav a {
+    float: left;
+    width: 30%;
+    margin: 0 0 0 5%;
+    padding: 25px 1%;
+    margin-bottom: 0;
+  }
+
+  nav li:first-child a {
+    margin-left: 0;
+  }
+
+  nav li:last-child a {
+    margin-right: 0;
+  }
+*/
+
+}
+
+@media only screen and (min-width: 768px),
+       only screen and (min-width: 700px) and (orientation: landscape) {
+
+  /*******************************
+GENERAL
+*******************************/
+	
+	nav ul li {
+	display: inline-block;
+	font-size: 40px;
+	font-weight: 800;
+  margin-left: 230px;
+  margin-top: 10px;
+}
+	
+	nav .selected, nav :hover {
+	color: #2e74b7;
+}
+  
+
+
+	
+	img {
+		border-radius: 8px;
+  }
+
+  /*******************************
+PAGE:HOME
+*******************************/
+
+.indexbody {
+  background-color: #000;
+}
+
+header {
+  display: flex;
+  height: 10em;
+  position: relative;
+  color: #000;
+	
+}
+
+.Kings {
+	font-size: 90px;
+  color: #2e74b7;
+  text-align: center;
+  margin: auto;
+	margin-top: 50px;
+}
+
+.lion {
+  margin: auto;
+  display: block;
+}
+
+.thetrue {
+	font-size: 60px;
+  color: #ffd700;
+  text-align: center;
+  margin: auto;
+	padding-top: 50px;
+}
+  
+  .foot {
+	color: #a9b7cb;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 1;
+  left: 0;
+}
+
+	
+/*******************************
+PAGE:ABOUT
+*******************************/
+  
+  .aboutbody {
+  background-color: #000;
+}
+
+.origin,
+.creators {
+	margin-left: 15%;
+  color: #2e74b7;
+  font-size: 35px;
+}
+
+.origin {
+	margin-top: 60px;
+}
+
+.creators {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.definition {
+	font-size: 33px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+	  /*********IMAGES**********/
+  
+.bigbrother {
+  padding-left: 195px;
+	padding-bottom: 20px;
+  }
+
+.me { 
+	padding-left: 195px;
+	padding-bottom: 20px;
+  }
+
+.ermaya {
+  padding-left: 195px;
+	padding-bottom: 20px;
+  }
+  
+	
+	  /*********PARAGRAPHS**********/
+
+.alfredcreator {
+	font-size: 31px;
+	padding-left: 100px;
+	padding-right: 100px;
+  padding-bottom: 60px;
+	text-align: center;
+  }
+
+.cinquecreator {
+	font-size:31px;
+	padding-left: 100px;
+	padding-right: 100px;
+  padding-bottom: 60px;
+	text-align: center;
+  }
+
+.ermayacreator {
+	font-size: 31px;
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+  }
+  
+.aboutfoot {
+	color: #2e74b7;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 3;
+  left: 0;
+  }
+/*******************************
+PAGE:WOMEN
+*******************************/
+	
+span {
+	display: inline-block;
+	}
+	
+.manyitems {
+  color: #2e74b7;
+  font-size: 30px;
+  padding-top: 50px;
+  padding-left: 225px;
+  padding-bottom: 25px;
+}
+
+.things {
+  padding-left: 20px;
+}
+
+.script {
+  font-size: 25px;
+  padding-left: 50px;
+}
+
+.stuff {
+  font-size: 25px;
+  padding-left: 70px;
+  padding-bottom: 50px;
+}
+
+.womenbody {
+  background-color: #000;
+}
+
+
+.women1, .women2, .women3, .women4, .women5, .women5-2, .women6 {
+  color: #fff;
+	padding-left: 150px;
+}
+
+.women5-2 {
+  padding-left: 15px;
+}
+
+.womenfoot {
+	color: #2e74b7;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 1;
+  left: 0;
+}
+	
+/*******************************
+PAGE:MEN
+*******************************/
+	
+.men1 {
+	padding-right: 50px;
+	padding-left: 200px;
+	padding-bottom: 55px;
+}
+
+.men2 {
+  padding-left: 95px;
+}
+
+.men3 {
+	padding-right: 50px;
+	padding-left: 95px;
+	padding-bottom: 55px;
+	}
+
+.men4 {
+  padding-left: 200px;
+  padding-right: 50px;
+	}
+
+.men5 {
+	padding-right: 50px;
+	padding-bottom: 55px;
+  padding-left: 95px;
+	}
+
+.men6 {
+  padding-left: 50px;
+	}
+	
+/*******************************
+PAGE:YOUTH
+*******************************/
+	
+.youth1 {
+	padding-right: 50px;
+	padding-left: 200px;
+	padding-bottom: 55px;
+}
+.youth2 {
+  padding-left: 95px;
+}
+
+.youth3 {
+	padding-right: 50px;
+	padding-left: 95px;
+	padding-bottom: 55px;
+	}
+
+.youth4 {
+  padding-left: 200px;
+  padding-right: 50px;
+	
+	}
+
+.youth5 {
+	padding-right: 50px;
+	padding-left: 95px;
+	padding-bottom: 55px;
+	
+	}
+
+.youth6 {
+  padding-left: 50px;
+	}
+	
+/*******************************
+PAGE:CONTACT US
+*******************************/
+	
+	.contact {
+  color: #2e74b7;
+  font-size: 35px;
+	text-align: center;
+  color: #2e74b7;
+  margin-top: 80px;
+	}
+	
+	.order {
+  text-align: center;
+  color: #2e74b7;
+  margin-top: 0; 
+  padding-top: 50px;
+}
+
+.mail {
+    width: [width of img];
+    font-size: 20px;
+    color: #2e74b7;
+    padding-left: 110px;
+}
+
+.mail img {
+    display: block;
+    margin: 0 auto;
+    
+}
+    
+.phone {
+    width: [width of img];
+    font-size: 20px;
+    color: #2e74b7;
+}
+
+.phone img {
+    display: block;
+    margin: 0 auto;
+}
+    
+.location {
+    width: [width of img];
+    font-size: 20px;
+    color: #2e74b7;
+}
+
+.location img {
+    display: block;
+    margin: 0 auto;
+}
+    
+
+  
+figcaption {
+  font-size: 25px;
+}
+    
+.foot {
+	color: #2e74b7;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+}
+
+@media only screen and (min-width: 1140px) {
+
+  /*******************************
+GENERAL
+*******************************/
+	
+	nav ul li {
+	display: inline-block;
+	font-size: 40px;
+	font-weight: 800;
+  margin-left: 230px;
+  margin-top: 10px;
+}
+	
+	nav .selected, nav :hover {
+	color: #2e74b7;
+}
+  
+
+
+	
+	img {
+		border-radius: 8px;
+  }
+
+  /*******************************
+PAGE:HOME
+*******************************/
+
+.indexbody {
+  background-color: #000;
+}
+
+header {
+  display: flex;
+  height: 10em;
+  position: relative;
+  color: #000;
+	
+}
+
+
+.Kings {
+	font-size: 90px;
+  color: #2e74b7;
+  text-align: center;
+  margin: auto;
+	margin-top: 20px;
+}
+
+.lion {
+  margin: auto;
+  display: block;
+}
+
+.thetrue {
+	font-size: 60px;
+  color: #ffd700;
+  text-align: center;
+  margin: auto;
+	padding-top: 50px;
+}
+  
+  .foot {
+	color: #a9b7cb;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 1;
+  left: 0;
+}
+
+	
+/*******************************
+PAGE:ABOUT
+*******************************/
+.bigbrother {
+  padding-left: 900px;
+	padding-bottom: 20px;
+  }
+
+.me { 
+	padding-left: 900px;
+	padding-bottom: 20px;
+  }
+
+.ermaya {
+  padding-left: 900px;
+	padding-bottom: 20px;
+  }
+  
+	
+	  /*********PARAGRAPHS**********/
+
+.alfredcreator {
+	font-size: 31px;
+	padding-left: 100px;
+	padding-right: 100px;
+  padding-bottom: 60px;
+	text-align: center;
+  }
+
+.cinquecreator {
+	font-size:31px;
+	padding-left: 100px;
+	padding-right: 100px;
+  padding-bottom: 60px;
+	text-align: center;
+  }
+
+.ermayacreator {
+	font-size: 31px;
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+  }
+  
+.aboutfoot {
+	color: #2e74b7;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 3;
+  left: 0;
+  }
+/*******************************
+PAGE:WOMEN
+*******************************/
+	
+span {
+	display: inline-block;
+	}
+	
+.women1 {
+  padding-top: 100px;
+	padding-right: 50px;
+	padding-left: 200px;
+/*	padding-bottom: 55px;*/
+}
+
+.women2 {
+  padding-left: 95px;
+}
+
+.women3 {
+	padding-right: 50px;
+	padding-left: 95px;
+	padding-bottom: 55px;
+	}
+
+.women4 {
+  padding-left: 200px;
+  padding-right: 50px;
+	
+	}
+
+.women5 {
+  padding-top: 70px;
+	padding-right: 50px;
+	padding-left: 300px;
+	padding-bottom: 55px;
+	
+	}
+
+.women6 {
+  padding-left: 250px;
+	
+	}
+	
+/*******************************
+PAGE:MEN
+*******************************/
+	
+.men1 {
+	padding-right: 50px;
+	padding-left: 200px;
+	padding-bottom: 55px;
+}
+
+.men2 {
+  padding-left: 95px;
+}
+
+.men3 {
+	padding-right: 50px;
+	padding-left: 95px;
+	padding-bottom: 55px;
+	}
+
+.men4 {
+  padding-left: 200px;
+  padding-right: 50px;
+	}
+
+.men5 {
+	padding-right: 50px;
+	padding-bottom: 55px;
+  padding-left: 95px;
+	}
+
+.men6 {
+  padding-left: 50px;
+	}
+	
+/*******************************
+PAGE:YOUTH
+*******************************/
+	
+.youth1 {
+	padding-right: 50px;
+	padding-left: 200px;
+	padding-bottom: 55px;
+}
+.youth2 {
+  padding-left: 95px;
+}
+
+.youth3 {
+	padding-right: 50px;
+	padding-left: 95px;
+	padding-bottom: 55px;
+	}
+
+.youth4 {
+  padding-left: 200px;
+  padding-right: 50px;
+	
+	}
+
+.youth5 {
+	padding-right: 50px;
+	padding-left: 95px;
+	padding-bottom: 55px;
+	
+	}
+
+.youth6 {
+  padding-left: 50px;
+	}
+	
+/*******************************
+PAGE:CONTACT US
+*******************************/
+	
+	.contact {
+  color: #2e74b7;
+  font-size: 35px;
+	text-align: center;
+  color: #2e74b7;
+  margin-top: 0;
+	}
+	
+	.order {
+  text-align: center;
+  color: #2e74b7;
+  margin-top: 0; 
+  padding-top: 50px;
+}
+
+.mail {
+    width: [width of img];
+    font-size: 20px;
+    color: #2e74b7;
+    padding-left: 780px;
+}
+
+.mail img {
+    display: block;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+    
+.phone {
+    width: [width of img];
+    font-size: 20px;
+    color: #2e74b7;
+}
+
+.phone img {
+    display: block;
+    margin: 0 auto;
+}
+    
+.location {
+    width: [width of img];
+    font-size: 20px;
+    color: #2e74b7;
+}
+
+.location img {
+    display: block;
+    margin: 0 auto;
+}
+  
+.contactp {
+    color: #ffd700;
+    font-size: 25px;
+}
+    
+
+  
+figcaption {
+  font-size: 25px;
+}
+    
+.foot {
+	color: #2e74b7;
+	font-size: 30px;
+	text-align:center;
+  clear:both;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+}
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
